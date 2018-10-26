@@ -1,2 +1,4 @@
 # Frequent_word_counter
-Seem details in the pdf
+Source: src folder
+
+Details in pdf
