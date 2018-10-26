@@ -7,5 +7,4 @@ Details in pdf
 
 Author:  
 Yiran Wu (or Kevin)
-
-Christopher J. Nitta, Professor at UC Davis.
+Created by Christopher J. Nitta, Professor at UC Davis.
